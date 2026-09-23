@@ -1,4 +1,4 @@
-*.iso
+.DS_Store
 # Prerequisites
 *.d
 
