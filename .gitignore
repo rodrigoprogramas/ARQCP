@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 *.iso
-=======
 # Prerequisites
 *.d
 
@@ -56,4 +54,3 @@ dkms.conf
 
 # debug information files
 *.dwo
->>>>>>> f4f55087b8609c82917bfacbcb0ba1eb3900007d
