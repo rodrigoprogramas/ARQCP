@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 
-int get_ascii_char(int c){
-    return '0' + c;
+int get_ascii_code(char c){
+    return (int) c;
 }
 
 int main(){
-    printf("O código ASCII do número %d é %d\n",1,get_ascii_char(1));
-    printf("O código ASCII do número %d é %d\n",23,get_ascii_char(23));
+
+    printf("O código ASCII do char %d é %c\n",'a',get_ascii_code('a'));
+
 }
